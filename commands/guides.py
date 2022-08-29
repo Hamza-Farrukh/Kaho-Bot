@@ -7,7 +7,7 @@ class Guides(commands.Cog, name='Guides'):
 
     @commands.command(name="guide")
     async def _guides_(self, ctx, message=None):
-        with open(f"./guides/{message}", 'r') as f:
+        with open(f"./guides/{message}.txt", 'r') as f:
             guide = f.read(2000)
             if len(guide) >= 2000:
                 x = guide.rfind('\n')
