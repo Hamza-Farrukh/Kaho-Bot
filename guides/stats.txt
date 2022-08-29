@@ -1,0 +1,48 @@
+:large_orange_diamond: **Author**
+     :small_red_triangle_down: Zero
+
+**Basic Stats**
+:large_orange_diamond: **HP**
+     :diamond_shape_with_a_dot_inside: Your health
+        :small_red_triangle_down: You die if it reaches 0 in battle
+
+:large_orange_diamond: **Atk/Matk**
+     :diamond_shape_with_a_dot_inside: Main stat used by Physical/Magical damage skills
+        :small_red_triangle_down: 1 Atk/Matk = 1 Damage to enemy
+        :small_red_triangle_down: Each skill uses different % of attack
+
+:large_orange_diamond: **Def/Mdef**
+     :diamond_shape_with_a_dot_inside: Main stat used against Physical/Magical damage skills.
+        :small_red_triangle_down: 1 Def = 1 Damage from enemy decrease
+
+:large_orange_diamond: **Ele Atk**
+     :diamond_shape_with_a_dot_inside: Increases Atk/Matk stat **ONLY** against enemies which are weak to that element
+        :small_red_triangle_down: 1 Ele Atk = 0.5% Atk/Matk increase
+
+:large_orange_diamond: **Ele Def**
+     :diamond_shape_with_a_dot_inside: Increases Def/Mdef stat **ONLY** against the same element skills
+        :small_red_triangle_down: 1 Ele Def = 0.5% Def/Mdef increase
+
+:large_orange_diamond: **Damage Limit**
+     :diamond_shape_with_a_dot_inside: Limit of your normal damage
+        :small_red_triangle_down: Multi Hit skills have Damage Limit = Damage Limit x Number of hits
+
+**Advance Stats**
+:large_orange_diamond: **Base of Any Basic Stat**
+     :diamond_shape_with_a_dot_inside: Stats from the passive skills(flat only), weapons, armors, aw ability, runes(not sure) and mount
+        :small_red_triangle_down: Some skills and items use base stat instead of total stat
+
+:large_orange_diamond: **Damage Factor**
+     :diamond_shape_with_a_dot_inside: Damage Multiplier
+        :small_red_triangle_down: 1 Damage Factor = 1% Damage Increase
+        :small_red_triangle_down: Also known as Damage Dealt
+
+:large_orange_diamond: **Critical Damage**
+     :diamond_shape_with_a_dot_inside: Damage Multiplier for Critical Hits
+        :small_red_triangle_down: 1 Crit Damage = 1% Damage Increase (Separate from DF)
+        :small_red_triangle_down: Also known as Crit Effect
+
+:large_orange_diamond: **Resilience**
+     :diamond_shape_with_a_dot_inside: Increases Healing
+        :small_red_triangle_down: 1 Resilience = 1 Heal Increase
+        :small_red_triangle_down: Also known as Hp Recovery

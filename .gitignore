@@ -1,0 +1,5 @@
+Kaho-Chan Bot.py
+.idea/
+commands/__pycache__/
+bg_tasks/__pycache__/
+.env

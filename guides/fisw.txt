@@ -1,0 +1,37 @@
+**:large_orange_diamond: Author**
+     :small_red_triangle_down: Zero
+
+**SW Hell Guide**
+**:large_orange_diamond: Boss**
+     :small_red_triangle_down: Flame Spirit
+
+**:large_orange_diamond: Stats**
+     :diamond_shape_with_a_dot_inside: Tank:
+        :small_red_triangle_down: Hp= 15k+   Def= 5k+    Fire Def= 300+
+     :diamond_shape_with_a_dot_inside: DPS:
+        :small_red_triangle_down: Atk/Matk = 50k+    Water Atk = 700+(If Elemental)   Damage Limit = 270k+
+     :diamond_shape_with_a_dot_inside: Everyone:
+        :small_red_triangle_down: Hp= 15k+    Def= 3k+    Fire Def= 300+
+
+:large_orange_diamond: Skill Decks and Required Roles
+     :diamond_shape_with_a_dot_inside: Shaman - Debuffer
+        :small_red_triangle_down: Thorn of Misery, Dark Fog, Binding Spell, Spirit Breath, Road to Silence, Vanguard
+     :diamond_shape_with_a_dot_inside: Saint - Healer and Debuffer
+        :small_red_triangle_down: Psyche, Discourage, Wall, Veil, Quick Step, Testament
+     :diamond_shape_with_a_dot_inside: Initiator - Buffer and Debuffer
+        :small_red_triangle_down:Spectral Powder, Maintenance, Optimize,  Smog Ball, Quick Step, Conversion
+     :diamond_shape_with_a_dot_inside: DPS - Physical Damage Dealers
+        :small_red_triangle_down: Anyting except Fire Skills
+
+**Note: **Add Divine Knight for more safety. Damage is kinda llimited anyway.
+
+**:large_orange_diamond: Things to Note**
+        :small_red_triangle_down: Kill fast or die
+        :small_red_triangle_down: Fatal AoE around 63m, 43m and 23m Hp
+        :small_red_triangle_down: Do not start battle till everyone is ready. It will cause weaken(Unremovable)
+
+**:large_orange_diamond: Pattern**
+     :diamond_shape_with_a_dot_inside: Doesn't Matter
+
+**:large_orange_diamond: Skills Usage**
+        :small_red_triangle_down: Debuff at 64m, 44m and 24m [Shaman, Saint]

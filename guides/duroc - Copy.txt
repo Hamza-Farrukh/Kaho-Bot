@@ -1,0 +1,53 @@
+>> **Author**
+     * Zero
+
+**Duroc Super Guide**
+>> **Boss**
+     * Duroc (Soil)             * Duroc A (Soil)             * Duroc B (Soil)
+
+>> **Stats**
+     > Tank:
+        * Hp= 20k+   Def= 8k+    Soil Def= 400+
+     > DPS:
+        * Atk/Matk = 50k+    Wind Atk = 700+    Damage Limit = 270k+
+     > Everyone:
+        * Hp= 15k+    Def= 4k+    Soil Def= 400+
+
+>> **Skill Decks and Required Roles**
+     > Divine Knight - *Tank*
+        * Defense Stance, Protection, Torus Guard, Quick Step, Thunder Stone, Vanguard/Advantage
+     > Shaman - *Debuffer*
+        * Thorn of Misery, Dark Fog, Binding Spell, Spirit Breath, Road to Silence, Dazzling Vortex
+     > Saint - *Healer and Debuffer*
+        * Psyche, Discourage, Wall, Veil, Quick Step, Testament
+     > Initiator - *PDPS and Debuffer*
+        * Assign, CRT Discharge, Rafale, 2 Wind Attacks,  Smog Ball
+     > PDPS - *Physical Damage Dealers*
+        * Buffs + All wind attacks.
+     > MDPS - *Magical Damage Dealers*
+        * Buffs + All wind attacks.
+     > Yome Initiator - *Buffer and Debuffer*
+        *Assign,  CRT Discharge, Optimize, Quick Step, Smog Ball, Sprinkler
+
+>> **Things to Note**
+        * Duroc uses Guard after fixed point of his Hp
+        * His attacks become stronger after each Guard
+        * Tank is stunned in every cycle
+        * Duroc A must not be hit with Physical Damage
+        * Duroc B must not be hit with Magical Damage
+
+>> **Pattern**
+     > Common Pattern
+        * Punch >> Skull Splitter(Bonk) >> Body Press(Jump) >> [One of the below]
+     > Pattern 1
+        * Ground Breaker (Single)
+     > Pattern 2
+        * Ground Crusher (AoE)
+     > Pattern 3
+        * Warm up >> Punch >> Punch >> Ork Rush
+
+>> **Skills Usage**
+        * Def Stance/Torus Guard before Skull Splitter [DK]
+        * Dark Fog and Discourage during Body Press [Shaman & Saint]
+        * Smog Ball and Binding Spell/Thorn of Misery after Warm up [Initiator & Shaman]
+        * Def Stance/Torus Guard after Warm up [DK]
